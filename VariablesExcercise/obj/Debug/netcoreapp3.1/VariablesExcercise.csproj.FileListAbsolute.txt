@@ -1,0 +1,13 @@
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/bin/Debug/netcoreapp3.1/VariablesExcercise.deps.json
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/bin/Debug/netcoreapp3.1/VariablesExcercise.runtimeconfig.json
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/bin/Debug/netcoreapp3.1/VariablesExcercise.runtimeconfig.dev.json
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/bin/Debug/netcoreapp3.1/VariablesExcercise.dll
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/bin/Debug/netcoreapp3.1/VariablesExcercise.pdb
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.csproj.AssemblyReference.cache
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.AssemblyInfoInputs.cache
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.AssemblyInfo.cs
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.csproj.CoreCompileInputs.cache
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.dll
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.pdb
+/Users/jared/Repos/VariablesExcercise/VariablesExcercise/obj/Debug/netcoreapp3.1/VariablesExcercise.genruntimeconfig.cache
